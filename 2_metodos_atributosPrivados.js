@@ -36,9 +36,6 @@ class Cliente {
     contaCorrenteRicardo.agencia = 1001;
     
     contaCorrenteRicardo.depositar(100);
-    contaCorrenteRicardo.depositar(100);
-    contaCorrenteRicardo.depositar(100);
-
     contaCorrenteRicardo.sacar(50);
     //contaCorrenteRicardo.depositar(-1); //método com condiçao funciona. 
     
