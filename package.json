@@ -1,0 +1,26 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Projeto para o bytebank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandamov/Exercicios-JavaScript-programando-a-orientacao-a-objetos.git"
+  },
+  "keywords": [
+    "banco"
+  ],
+  "author": "Amanda",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/amandamov/Exercicios-JavaScript-programando-a-orientacao-a-objetos/issues"
+  },
+  "homepage": "https://github.com/amandamov/Exercicios-JavaScript-programando-a-orientacao-a-objetos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
